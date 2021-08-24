@@ -5,7 +5,7 @@
 - Former Microsoft Student Partner.
 - Full-stack developer in Python and Javascript. 
 - Mobile application developer in Android using Kotlin, and Java. 
-- Cloud platforms: GCP, Azure and AWS
+- Cloud platforms: GCP, Azure and AWS.
 
 Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, Scipy, Dask, Pandas, and Opencv. 
 
@@ -13,16 +13,16 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
 
 - 🚜 In the last 2 years, my research has been focused on solving problems in the field of agriculture using Machine Learning and Deep Learning.
 - 🔭 In my Ph.D., my research areas are: 
-    - signal processing and computer vision 
+    - Signal processing and computer vision.
     - Machine Learning, and Deep Learning.
-    - Remote sensing
-    - Geophysics tools (Ground Penetrating Radar)
-    - Mathematical simulation and electromagnetism     
+    - Remote sensing (UAV and satellite imagery processing).
+    - Geophysics tools (Ground Penetrating Radar).
+    - Mathematical simulation and electromagnetism.     
 
 - 🌱 I’m currently learning Jax and Transformers in my free-time.
 - 👯 Looking to collaborate in any open-source project related to the research areas mentioned above or with social meaning.
-- 🚀 Open-source projects: FalconCV, CVStudio and Rigging.js
-- ⚡ Fun fact: Before I went to school I wanted to be a soccer player
+- 🚀 Open-source projects: FalconCV, CVStudio and Rigging.js.
+- ⚡ Fun fact: Before I went to school I wanted to be a soccer player.
 
 
 ## 🏆 Recent achievements 
