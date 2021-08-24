@@ -24,6 +24,20 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
 - 🚀 Open-source projects: FalconCV, CVStudio and Rigging.js
 - ⚡ Fun fact: Before I went to school I wanted to be a soccer player
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/haruiz/CvStudio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=cvstudio&show_icons=true&line_height=27" alt="CV-Studio" />
+</a>
+
+<a href="https://github.com/haruiz/FalconCV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=falconcv&show_icons=true&line_height=27" alt="Falcon-CV" />
+</a>
+
+<a href="https://github.com/haruiz/RiggingJs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=riggingjs&show_icons=true&line_height=27" alt="Rigging-JS" />
+</a>
+
 ## 🏆 Recent achievements 
 
 - [Deep Learning Udacity Nanodegree](https://graduation.udacity.com/confirm/LFG39WPU)
