@@ -20,8 +20,7 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
     - Mathematical simulation and electromagnetism     
 
 - 🌱 I’m currently learning Jax and Transformers in my free-time.
-- 👯 Looking to collaborate on any open-source project related to the research areas mentioned above or with social meaning.
-- 💬 Ask me about anything and everything.
+- 👯 Looking to collaborate in any open-source project related to the research areas mentioned above or with social meaning.
 - 🚀 Open-source projects: FalconCV, CVStudio and Rigging.js
 - ⚡ Fun fact: Before I went to school I wanted to be a soccer player
 
@@ -30,7 +29,7 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
 - [Deep Learning Udacity Nanodegree](https://graduation.udacity.com/confirm/LFG39WPU)
 - [Intel® Edge AI for IoT Developers Nanodegree](https://confirm.udacity.com/YLXC7HQK)
 
-## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />&nbsp; Github Activity
+## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />Github Activity
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haruiz)](https://github.com/ryo-ma/github-profile-trophy)
 
