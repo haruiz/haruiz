@@ -1,4 +1,4 @@
-## Hello world, I'm.. 👋
+## Hello world, I'm Henry 👋
 
 - Ph.D. student at [Texas A&M University](https://www.tamu.edu/).
 - [Google Developer Expert (GDE) in Machine Learning](https://developers.google.com/community/experts/directory/profile/profile-henry-alonso-ruiz-guzman).
