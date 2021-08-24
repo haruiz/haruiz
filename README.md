@@ -12,7 +12,7 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
 ## My journey 🚀 
 
 - 🚜 In the last 2 years, my research has been focused on solving problems in the field of agriculture using Machine Learning and Deep Learning.
-- 🔭 In my Ph.D., my research areas are: 
+- 🔭 My Ph.D. research areas are: 
     - Signal processing and computer vision.
     - Machine Learning, and Deep Learning.
     - Remote sensing (UAV and satellite imagery processing).
