@@ -24,6 +24,18 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
 - 🚀 Open-source projects: FalconCV, CVStudio and Rigging.js
 - ⚡ Fun fact: Before I went to school I wanted to be a soccer player
 
+
+## 🏆 Recent achievements 
+
+- [Deep Learning Udacity Nanodegree](https://graduation.udacity.com/confirm/LFG39WPU)
+- [Intel® Edge AI for IoT Developers Nanodegree](https://confirm.udacity.com/YLXC7HQK)
+
+## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />Github Activity
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haruiz)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/haruiz/CvStudio">
@@ -37,16 +49,6 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
 <a href="https://github.com/haruiz/RiggingJs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=riggingjs&show_icons=true&line_height=27" alt="Rigging-JS" />
 </a>
-
-## 🏆 Recent achievements 
-
-- [Deep Learning Udacity Nanodegree](https://graduation.udacity.com/confirm/LFG39WPU)
-- [Intel® Edge AI for IoT Developers Nanodegree](https://confirm.udacity.com/YLXC7HQK)
-
-## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />Github Activity
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=haruiz)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 📫 Connect with me
 
