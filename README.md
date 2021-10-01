@@ -50,6 +50,11 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=riggingjs&show_icons=true&line_height=27" alt="Rigging-JS" />
 </a>
 
+
+<a href="https://github.com/haruiz/COVID19-Xray">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=COVID19-Xray&show_icons=true&line_height=27" alt="COVID19-Xray" />
+</a>
+
 ## 📫 Connect with me
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://haruiz.github.io/)
