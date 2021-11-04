@@ -7,7 +7,7 @@
 - Mobile application developer in Android using Kotlin, and Java. 
 - Cloud platforms: GCP, Azure and AWS.
 
-Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, Scipy, Dask, Pandas, and Opencv. 
+Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, Scipy, Dask, Pandas, OpenVINO and Opencv. 
 
 ## My journey 🚀 
 
