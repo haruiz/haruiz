@@ -30,6 +30,7 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
 - [Deep Learning Udacity Nanodegree](https://graduation.udacity.com/confirm/LFG39WPU)
 - [Intel® Edge AI for IoT Developers Nanodegree](https://confirm.udacity.com/YLXC7HQK)
 - [Intel Edge AI Certification](https://www.credly.com/badges/3339a9da-4af4-42eb-9b4b-d1e5e7ea422a)
+- [Tensorflow Developer Certificated](https://www.credential.net/296580df-2e88-4a20-8a77-961b7152209d)
 
 ## <img align="left" alt="codeSTACKr.com" width="22px" src="assets/icons/github.svg" />Github Activity
 
