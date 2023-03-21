@@ -52,9 +52,8 @@ Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Dat
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=riggingjs&show_icons=true&line_height=27" alt="Rigging-JS" />
 </a>
 
-
-<a href="https://github.com/haruiz/rl-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=rl-project&show_icons=true&line_height=27" alt="rl-project" />
+<a href="https://github.com/haruiz/RLScara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=rlscara&show_icons=true&line_height=27" alt="RLScara" />
 </a>
 
 <a href="https://github.com/haruiz/COVID19-Xray">
