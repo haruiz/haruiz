@@ -4,25 +4,26 @@
 - [Google Developer Expert (GDE) in Machine Learning](https://developers.google.com/community/experts/directory/profile/profile-henry-alonso-ruiz-guzman).
 - Former Microsoft Student Partner.
 - Full-stack developer in Python and Javascript. 
-- Mobile application developer in Android using Kotlin, and Java. 
-- Cloud platforms: GCP, Azure and AWS.
+- Mobile application developer in Android using Kotlin and Java. 
+- Cloud platforms: GCP, Azure, and AWS.
 
-Proficient in .Net, MATLAB, and C++. With experience also working with Ml/Dl/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, Scipy, Dask, Pandas, OpenVINO and Opencv. 
+Proficient in .Net, MATLAB, and C++. I also have experience working with Ml/Dl/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, Scipy, Dask, Pandas, OpenVINO, and Opencv. 
 
 ## My journey 🚀 
 
-- 🚜 In the last 2 years, my research has been focused on solving problems in the field of agriculture using Machine Learning and Deep Learning.
-- 🔭 My Ph.D. research areas are: 
+- 🚜 I am currently working as a Research Scientist for Texas A&M AgriLife Research. My research focuses on addressing agricultural challenges using the intersection between Data Science, Remote Sensing, Machine Learning, and Deep Learning techniques.
+- 🔭  My areas of interest include:
+    - The application of Geophysics tools like Ground Penetrating Radar    
     - Signal processing and computer vision.
-    - Machine Learning, and Deep Learning.
+    - Machine Learning and Deep Learning.
     - Remote sensing (UAV and satellite imagery processing).
-    - Geophysics tools (Ground Penetrating Radar).
-    - Mathematical simulation and electromagnetism.     
+    - Geophysics data science.
+    - Mathematical and electromagnetism simulation.    
 
-- 🌱 I’m currently learning Jax and Transformers in my free-time.
+- 🌱 I’m currently learning Jax and Transformers in my free time.
 - 👯 Looking to collaborate in any open-source project related to the research areas mentioned above or with social meaning.
 - 🚀 Open-source projects: FalconCV, CVStudio and Rigging.js.
-- ⚡ Fun fact: Before I went to school I wanted to be a soccer player.
+- ⚡ Fun fact: Before I went to school, I wanted to be a soccer player.
 
 
 ## 🏆 Recent achievements 
