@@ -1,6 +1,6 @@
 ## Hello world, I'm Henry 👋
 
-- Research Scientist at [Texas A&M AgriLife Resarch](https://agriliferesearch.tamu.edu)
+- Research Scientist at [Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu)
 - [Google Developer Expert (GDE) in Machine Learning](https://developers.google.com/community/experts/directory/profile/profile-henry-alonso-ruiz-guzman).
 - Former Microsoft Student Partner.
 - Full-stack developer in Python and Javascript. 
