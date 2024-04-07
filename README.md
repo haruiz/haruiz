@@ -62,6 +62,10 @@ Proficient in .Net, MATLAB, and C++. I also have experience working with Ml/Dl/D
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=COVID19-Xray&show_icons=true&line_height=27" alt="COVID19-Xray" />
 </a>
 
+<a href="https://github.com/haruiz/geminiplayground">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=haruiz&repo=geminiplayground&show_icons=true&line_height=27" alt="geminiplayground" />
+</a>
+
 ## 📫 Connect with me
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://haruiz.github.io/)
