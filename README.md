@@ -11,7 +11,7 @@ Proficient in .Net, MATLAB, and C++. I also have experience working with Ml/Dl/D
 
 ## My journey 🚀 
 
-- 🚜 I am currently working as a Research Scientist for Texas A&M AgriLife Research. My research focuses on addressing agricultural challenges using the intersection between Data Science, Remote Sensing, Machine Learning, and Deep Learning techniques.
+- 🚜 I am currently working as a Research Scientist for Texas A&M AgriLife Research. My research focuses on designing, developing, and implementing end-to-end software solutions and computational algorithms to analyze remote sensing datasets using state-of-the-art data science, signal processing, and machine learning methods.
 - 🔭  My areas of interest include:
     - The application of Geophysics tools like Ground Penetrating Radar    
     - Signal processing and computer vision.
