@@ -30,8 +30,8 @@ Proficient in .Net, MATLAB, and C++. I also have experience working with Ml/Dl/D
 ## 🏆 Recent achievements & Certificates
 
 - [Graduate Remote Sensing Certificate, College of Geoscienses - Texas A&M University](https://www.credential.net/126939f1-8491-4677-bfed-2e27e23470d4?username=henryalonsoruizguzman691031#gs.3o1bc4) 
-- [Deep Learning Udacity Nanodegree](https://graduation.udacity.com/confirm/LFG39WPU)
-- [Intel® Edge AI for IoT Developers Nanodegree](https://confirm.udacity.com/YLXC7HQK)
+- [Deep Learning Udacity Nanodegree](www.udacity.com/certificate/e/c630d054-68c1-11ea-bddc-83e781cdfb79)
+- [Intel® Edge AI for IoT Developers Nanodegree](www.udacity.com/certificate/e/e9f7c1ba-7f63-11ea-b26e-6bc8f17a0415)
 - [Intel Edge AI Certification](https://www.credly.com/badges/3339a9da-4af4-42eb-9b4b-d1e5e7ea422a)
 - [Tensorflow Developer Certificated](https://www.credential.net/296580df-2e88-4a20-8a77-961b7152209d)
 
