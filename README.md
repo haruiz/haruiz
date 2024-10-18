@@ -16,6 +16,7 @@ Proficient in .Net, MATLAB, and C++. I also have experience working with Ml/Dl/D
     - The application of Geophysics tools like Ground Penetrating Radar    
     - Signal processing and computer vision.
     - Machine Learning and Deep Learning.
+    - Large language Models (LLMs) and Multi-Agents applications
     - Remote sensing (UAV and satellite imagery processing).
     - Geophysics data science.
     - Mathematical and electromagnetism simulation.    
